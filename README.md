@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋. I am a Mobile Developer |iOS, Android, and React Native Expert.
 
 <!--
 **jorgeOmurillo/jorgeOmurillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
